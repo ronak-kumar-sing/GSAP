@@ -21,7 +21,7 @@ t1.from('#img img', {
   x: -100,
   rotate: 20,
   opacity: 0,
-  duration: 0.8,
+  duration: 2,
   stagger: 0.2,
   ease: 'power3.out',
 })
